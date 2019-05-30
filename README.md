@@ -1,13 +1,19 @@
 # AuxAula
 
 Título del TFG: 
+
 AuxAula: Contruyendo puentes entre alumno y profesor. Transformar la distracción en productividad
+
+
 
 Director: Jesús Correas Fernández
 Autor: Carlos Montoto Jáuregui
 Fecha: 31/05/2019
 
+
+
 Resumen:
+
 La rápida evolución de la tecnología móvil y su democratización, debido al decremento de su coste y a su alta variedad de gamas en el mercado; junto a la inexistencia de una educación de manejo responsable y a su uso inadecuado, han conllevado a que las nuevas generaciones cada vez tengan mayor dependencia de estos dispositivos. Este uso continuado afecta, en consecuencia, a muchos aspectos de nuestras vidas, incluyendo las relaciones personales, laborales o académicas.
 El objetivo de este proyecto es el de desarrollar una herramienta que, utilizando el potencial positivo de esta tecnología, ayude a los usuarios a disminuir las distracciones y a enfocar su atención, inhibiendo factores disruptivos de la concentración mostrando, de forma transparente, el uso del dispositivo y utilizando métodos de la educación dinámica.
 Para ello, tras realizar un estudio de la situación actual, se ha diseñado e implementado el prototipo de una aplicación académica para alumnos y profesores, que, utilizando los métodos ya mencionados, incremente los resultados del aprendizaje en el aula, a la par que intenta construir buenos hábitos de uso y recuperar la confianza en la tecnología.
