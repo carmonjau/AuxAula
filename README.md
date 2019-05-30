@@ -4,13 +4,9 @@ Título del TFG:
 
 AuxAula: Contruyendo puentes entre alumno y profesor. Transformar la distracción en productividad
 
-
-
 Director: Jesús Correas Fernández
 
-
 Autor: Carlos Montoto Jáuregui
-
 
 Fecha: 31/05/2019
 
