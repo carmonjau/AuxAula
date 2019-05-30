@@ -7,7 +7,11 @@ AuxAula: Contruyendo puentes entre alumno y profesor. Transformar la distracció
 
 
 Director: Jesús Correas Fernández
+
+
 Autor: Carlos Montoto Jáuregui
+
+
 Fecha: 31/05/2019
 
 
