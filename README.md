@@ -32,9 +32,9 @@ Debido a que el prototipo utiliza un servidor local, es necesario instalar algun
 
 •	Seleccionar la nueva base de datos creada. Una vez abierta pulsar el botón Importar que se encuentra en la barra superior.
 
-•	Pulsar el botón examinar y seleccionar el fichero auxauladb.SQL. Puede descargarse dentro de la carpeta Server Resourses del repositorio de AuxAula. Tras seleccionar el archivo pulsar el botón Continuar que se encuentra en la parte inferior.
+•	Pulsar el botón examinar y seleccionar el fichero auxaulabd.SQL. Puede descargarse dentro de la carpeta Server Resourses del repositorio de AuxAula. Tras seleccionar el archivo pulsar el botón Continuar que se encuentra en la parte inferior.
 
-•	Introducir las carpetas logueo y documents en la carpeta htdocs que se encuentra dentro del directorio de XAMPP.
+•	Introducir las carpetas phpfiles y documents en la carpeta htdocs que se encuentra dentro del directorio de XAMPP.
 
 De este modo tenemos creada la base de datos con algunos datos para probar el prototipo, pero para ello, primero hay que modificar la dirección IP que tienen los documentos de la base de datos por la propia (esto es debido a utilizar un servidor local). Además, hay que hacer lo mismo cambiando la línea superior del archivo DB del paquete DB. 
 
