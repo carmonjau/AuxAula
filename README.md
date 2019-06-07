@@ -10,6 +10,10 @@ Autor: Carlos Montoto Jáuregui
 
 Fecha: 31/05/2019
 
+Enlace al código del prototipo de la app:
+
+https://drive.google.com/file/d/1kp0_z2G1bgZ2uxoS0fl2Bfhriz42MDRQ/view?usp=sharing
+
 Resumen:
 
 La rápida evolución de la tecnología móvil y su democratización, debido al decremento de su coste y a su alta variedad de gamas en el mercado; junto a la inexistencia de una educación de manejo responsable y a su uso inadecuado, han conllevado a que las nuevas generaciones cada vez tengan mayor dependencia de estos dispositivos. Este uso continuado afecta, en consecuencia, a muchos aspectos de nuestras vidas, incluyendo las relaciones personales, laborales o académicas.
